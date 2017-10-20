@@ -31,6 +31,3 @@ public class GameController : MonoBehaviour {
 		
 	}
 }
-
-
-//Thanks!! That helps a lot. I thought that we had to use a range method.(-16, 0, 0) inside the for loop, so that the cubes can line up in order as 'i' increments 1.
